@@ -1,12 +1,12 @@
 import java.util.*;
 import java.io.*;
-class experiment6
+class experiment4
 {
     public static void main(String args[])
     {
         try
         {
-            FileInputStream f = new FileInputStream("integer.txt");
+            FileInputStream f = new FileInputStream("exp4.txt");
             int ch;
                 String a;
                 int sum =0;
