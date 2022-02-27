@@ -1,6 +1,6 @@
 
 
-class experiment6a
+class exp6a
 {
     public static void main(String args[])
     {
